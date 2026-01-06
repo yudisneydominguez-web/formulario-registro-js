@@ -1,27 +1,32 @@
-# Formulario de Registro con JavaScript
+# 📋 Formulario de Registro con JavaScript
 
-## Descripción
-Proyecto básico de formulario de registro desarrollado con HTML, CSS y JavaScript.
-Simula una funcionalidad real utilizada en aplicaciones web.
+Proyecto práctico desarrollado con **HTML, CSS y JavaScript** para practicar
+validación de formularios y lógica básica de frontend.
 
-# Mi proyecto
-
-## Diagrama de flujo
-
-![Diagrama del formulario](images/diagrama-formulario.png)
-
-[Ver diagrama en grande](images/diagrama-formulario.png)
-
-
-## Funcionalidades
+## 🚀 Funcionalidades
+- Captura de nombre, correo y contraseña
 - Validación de campos obligatorios
-- Validación básica de correo electrónico
 - Mensajes de error y éxito
+- Interfaz simple y clara
 
-## Tecnologías utilizadas
-- HTML
-- CSS
-- JavaScript
+## 🧠 Lógica del sistema
+El formulario valida que los campos no estén vacíos y que el correo tenga un
+formato válido antes de permitir el envío.
 
-## Autor
-Yudisney Domínguez
+## 🔁 Diagrama de flujo
+![Diagrama del formulario](img/diagrama-formulario.png)
+
+## 🛠️ Tecnologías usadas
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+## 📂 Estructura del proyecto
+formulario-registro-js/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+└── img/
+    └── diagrama-formulario.png
